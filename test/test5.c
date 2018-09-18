@@ -10,4 +10,4 @@ int main()
         printf("a khong am khong duong");
     else
         printf("a la so am");
-}
+}   `
